@@ -21,5 +21,5 @@ const port = process.env.PORT || 2000                //for host
 
 
 app.listen(port, () => {
-    console.log("Server is up and Running");
+    console.log(`Server is up and Running and the port is ${port}`);
 })
