@@ -1,0 +1,26 @@
+{
+  "name": "quizzes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkstellar16/Quizzes.git"
+  },
+  "author": "Shubham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darkstellar16/Quizzes/issues"
+  },
+  "homepage": "https://github.com/darkstellar16/Quizzes#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.1.0",
+    "mongoose-unique-validator": "^4.0.0"
+  }
+}
